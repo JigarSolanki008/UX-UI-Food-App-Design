@@ -17,6 +17,10 @@ This project aims to design the concept for the 'Grab Grub' food delivery app us
    - Features a vegetarian burger option with price.
    - Includes a profile icon for user account access.
 
+## Screenshots
+
+![UX-UI Food App Design](https://github.com/JigarSolanki008/UX-UI-Food-App-Design/blob/main/Grab%20&%20Grub%20Screenshot/UX-UI(Food%20App%20Design).PNG?raw=true)
+
 ## Design Elements
 - Utilizes a consistent color scheme, typography, and layout for a visually appealing aesthetic.
 
